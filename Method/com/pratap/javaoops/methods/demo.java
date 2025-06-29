@@ -21,7 +21,16 @@ public class demo{
         obj.PlayMusic();
         obj.getMeAPen(12);
 
-        
+
     }
 }
+
+/*
+ METHOD OVERLOADING
+ => When you have 2 or more than two methods with same parameter or diffrent parameter with same name that is called method 
+ overloading 
+
+ => every methods have their own stack
+ 
+ */
 
